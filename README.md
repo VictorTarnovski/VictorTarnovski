@@ -1,7 +1,7 @@
 ### 🐱‍👤
 
 - 🔭 Atualmente trabalhando como técnico de Suporte Interno
-- 📒🖊 Estou aprendendo Delphi
+- 📒🖊 Estou aprendendo TypeScript
 
 
 <div>
