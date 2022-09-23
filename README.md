@@ -1,6 +1,6 @@
 ### 🐱‍👤
 
-- 🔭 Atualmente trabalhando como técnico de Suporte Interno
+- 🔭 Atualmente trabalhando como Integrador
 - 📒🖊 Aprendendo TypeScript
 
 
