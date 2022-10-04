@@ -1,6 +1,6 @@
 ### 🐱‍👤
 
-- 🔭 Atualmente trabalhando como Integrador
+- 🔭 Atualmente trabalhando como Analista de Integração
 - 📒🖊 Aprendendo TypeScript
 
 
