@@ -1,7 +1,7 @@
 ### 🐱‍👤
 
 - 🔭 Atualmente trabalhando como Analista de Integração
-- 📒🖊 Aprendendo TypeScript
+- 📒🖊 Aprendendo TypeScript & VueJS
 
 
 <div>
@@ -12,8 +12,8 @@
 <div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
 </div>
 <p/>
 <div> 
